@@ -1,0 +1,14 @@
+{
+  "name": "grunt-contrib-concat",
+  "homepage": "https://github.com/gruntjs/grunt-contrib-concat",
+  "version": "1.0.1",
+  "_release": "1.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.1",
+    "commit": "1fff124e36d2a5c42c7d8aa0cb3ffa19d89d9995"
+  },
+  "_source": "https://github.com/gruntjs/grunt-contrib-concat.git",
+  "_target": "^1.0.1",
+  "_originalSource": "grunt-contrib-concat"
+}

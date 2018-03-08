@@ -1,0 +1,32 @@
+{
+  "name": "kendoui",
+  "description": "Versão profissional",
+  "private": true,
+  "authors": [
+    "Charles viegas <cviegas@azi.net.br>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://git.azi.com.br/az-reuso/kendoui.git"
+  },
+  "ignore": [
+    ".gitignore",
+    "README.md",
+    "changelog.html",
+    "apptemplates",
+    "examples",
+    "license-agreements",
+    "typescript",
+    "vsdoc"
+  ],
+  "version": "2016.2.714",
+  "_release": "2016.2.714",
+  "_resolution": {
+    "type": "version",
+    "tag": "2016.2.714",
+    "commit": "2c04167154235823edef8e9d1d996cb16ce4574f"
+  },
+  "_source": "git@git.azi.com.br:az-reuso/kendoui.git",
+  "_target": "2016.2.714",
+  "_originalSource": "git@git.azi.com.br:az-reuso/kendoui.git"
+}

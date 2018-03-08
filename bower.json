@@ -1,0 +1,35 @@
+{
+  "name": "desafio",
+  "description": "TCC - Plataforma Educacional (Desafio)",
+  "version": "1.0.0",
+  "main": "",
+  "authors": [
+    "Diego Dalto <ddalto@azi.com.br>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "devDependencies": {
+    "angular": "^1.6.9",
+    "jquery": "^3.3.1",
+    "angular-ckeditor": "^1.0.3",
+    "angular-cookies": "^1.6.9",
+    "angular-i18n": "^1.6.9",
+    "angular-loader": "^1.6.9",
+    "angular-mocks": "^1.6.9",
+    "angular-resource": "^1.6.9",
+    "angular-sanitize": "^1.6.9",
+    "angular-ui-router": "^1.0.15",
+    "angular-ui-select2": "^0.0.5",
+    "ckeditor": "^4.8.0",
+    "requirejs": "^2.3.5",
+    "text": "^2.0.15",
+    "blueimp-md5": "^2.10.0",
+    "spin": "^1.1.6",
+    "moment": "^2.21.0",
+    "grunt": "^1.0.2",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-less": "^1.4.1",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}

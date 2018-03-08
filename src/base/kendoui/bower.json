@@ -1,0 +1,22 @@
+{
+  "name": "kendoui",
+  "description": "Versão profissional",
+  "private": true,
+  "authors": [
+    "Charles viegas <cviegas@azi.net.br>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://git.azi.com.br/az-reuso/kendoui.git"
+  },
+  "ignore": [
+    ".gitignore",
+    "README.md",
+    "changelog.html",
+    "apptemplates",
+    "examples",
+    "license-agreements",
+    "typescript",
+    "vsdoc"
+  ]
+}
